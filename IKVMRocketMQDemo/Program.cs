@@ -13,6 +13,10 @@ namespace IKVMRocketMQDemo
     /// </summary>
     internal class Program
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="args"></param>
         private static void Main(string[] args)
         {
             #region 生产消息
